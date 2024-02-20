@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aravind-software-developer/) ** 
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xCFeNnEAnxZiCiZL9hZuwcXSc1usNr6-NPsIYPeP0tg/edit](https://docs.google.com/document/d/1xCFeNnEAnxZiCiZL9hZuwcXSc1usNr6-NPsIYPeP0tg/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1xCFeNnEAnxZiCiZL9hZuwcXSc1usNr6-NPsIYPeP0tg/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
