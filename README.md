@@ -3,11 +3,11 @@
 
 - 👨‍💻 All of my projects are available at [sportivearavind.com](sportivearavind.com)
 
-- 📝 I regularly write articles on [https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white](https://medium.com/@aravind16101800) 
+- 📝 I regularly write articles on [Medium](https://medium.com/@aravind16101800) 
 
 - 💬 Ask me about **Java, DSA and React**
 
-- 📫 How to reach me **https://www.linkedin.com/in/aravind-software-developer/**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aravind-software-developer/) ** 
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1xCFeNnEAnxZiCiZL9hZuwcXSc1usNr6-NPsIYPeP0tg/edit](https://docs.google.com/document/d/1xCFeNnEAnxZiCiZL9hZuwcXSc1usNr6-NPsIYPeP0tg/edit)
 
