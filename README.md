@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [sportivearavind.com](sportivearavind.com)
 
-- 📝 I regularly write articles on [https://medium.com/@aravind16101800](https://medium.com/@aravind16101800)
+- 📝 I regularly write articles on [https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white](https://medium.com/@aravind16101800) 
 
 - 💬 Ask me about **Java, DSA and React**
 
