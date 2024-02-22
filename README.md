@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aravind S</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [sportivearavind.com](sportivearavind.com)
+- 👨‍💻 All of my projects are available at [sportivearavind.com](https://sportivearavind.com/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@aravind16101800) 
 
